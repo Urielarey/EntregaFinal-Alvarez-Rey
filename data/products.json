@@ -1,0 +1,6 @@
+[
+  { "title": "Camiseta React", "category": "ropa", "price": 25, "description": "Camiseta oficial de React." },
+  { "title": "Taza JS", "category": "hogar", "price": 10, "description": "Taza con logo de JS." },
+  { "title": "Auriculares", "category": "electronica", "price": 75, "description": "Auriculares con cancelación." },
+  { "title": "Pantalón", "category": "ropa", "price": 40, "description": "Pantalón cómodo." }
+]
